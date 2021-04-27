@@ -5,7 +5,7 @@
 
 The Superfly is a compact extruder designed to reuse the excellent dual drive gears of the beloved BMG extruder.
 As with the BMG, the Superfly is a dual-drive geared extruder with a 3:1 gear ratio. It is designed with the following characteristics in mind:
-- compact and light
+- compact and lightweight
 - short filament path
 - balanced center of gravity
 - easy to source hardware
@@ -20,12 +20,15 @@ Here are some pictures so that you can get a good idea of what the Superfly look
 
 The weight of the printed parts for the Superfly comes in at a Flyweight class at less than 11 gram.
 The following shows the Superfly printed in PLA+ with 4 walls and plently of infill:
+
 <img src="images/weight/superfly.jpg" width=640>
 
 For reference, the weight of the printed parts is almost exactly the same as the Sherpa Mini with the same slicer settings:
+
 <img src="images/weight/comparison-2.jpg" width=640>
 
 Fully assembled without motors, the Superfly comes in at around 30-31 gram.
+
 <img src="images/weight/with_gears.jpg" width=640>
 
 ### Parts
