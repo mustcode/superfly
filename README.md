@@ -21,15 +21,15 @@ Here are some pictures so that you can get a good idea of what the Superfly look
 The weight of the printed parts for the Superfly comes in at a Flyweight class at less than 11 gram.
 The following shows the Superfly printed in PLA+ with 4 walls and plently of infill:
 
-<img src="images/weight/superfly.jpg" width=640>
+<img src="images/weight/superfly.jpg" width=480>
 
 For reference, the weight of the printed parts is almost exactly the same as the Sherpa Mini with the same slicer settings:
 
-<img src="images/weight/comparison-2.jpg" width=640>
+<img src="images/weight/comparison-2.jpg" width=480>
 
 Fully assembled without motors, the Superfly comes in at around 30-31 gram.
 
-<img src="images/weight/with_gears.jpg" width=640>
+<img src="images/weight/with_gears.jpg" width=480>
 
 ### Parts
 You will need the follwing parts of your BMG:
@@ -61,14 +61,16 @@ There are only 4 parts that you need to print:
 
 #### Printing the Motor Spacer
 The motor spacer is an optional part designed to go between the main housing and the motor to allow you to use motors with shaft longer than 15mm. Any longer than 15mm, the shaft can hit the feeding hole where the PTFE tube collet is attached.
-<img src="images/assembly/motor_shaft.jpg" width=640>
+
+<img src="images/assembly/motor_shaft.jpg" width=480>
 
 So, if you're using a motor with 20mm shaft, you will need to scale the provided spacer to the thickness of around 4.5-5mm before printing. Here's how the extruder looks with and without the spacer:
 
 <img src="images/options/nema17_with_spacer.png" width=460><img src="images/options/nema17.png" width=460>
 
 Additionally, some variations of the drive shaft are known to be a bit long and may protrude beyond the back housing:
-<img src="images/assembly/gear_shaft.jpg" width=640>
+
+<img src="images/assembly/gear_shaft.jpg" width=480>
 
 If this is the case for you, then you will need a spacer to make sure that the shaft is not pushing against the motor's body. Finally, if you are using a NEMA 14 motor and you'd prefer to save weight, you can grind away the protruding portion of the drive shaft, this is commonly done on other similar round NEMA 14 based extruder like the Sherpa Mini. Here's how the extruder looks with a round NEMA 14 motor:
 
@@ -88,10 +90,11 @@ All parts are printable in under 3 hours and should be an easy print for most mo
 
 ### Assembly
 Assembly is very straight forward. The following images should a good enough guide for you to see how all the parts fits together:
-<img src="images/assembly/assembly-1.png" width=1024>
-<img src="images/assembly/assembly-2.png" width=1024>
+<img src="images/assembly/assembly-1.png" width=800>
+<img src="images/assembly/assembly-2.png" width=800>
 
 Here is what your main housing should look like before and after assembly:
+
 <img src="images/assembly/housing-empty.png" width=460><img src="images/assembly/housing.png" width=460>
 
 And here is what the tensioner arm should look like once assembled:
