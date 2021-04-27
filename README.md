@@ -107,7 +107,8 @@ One thing to make sure of during assembly is that the drive gear line-up correct
 <img src="images/assembly/line_up_teeth.jpg" width=460><img src="images/assembly/filament_as_guide.jpg" width=460>
 
 ## Finally,
-I'll links to mounts and mods of the Superfly here when I'm informed of them. Hopefully there'll be some makers kind enough to early adopt the Superfly into their home soon.
+I'll links to mounts and mods of the Superfly here when I'm informed of them. Hopefully there'll be some makers kind enough to early adopt the Superfly into their home soon :D
+
 That is all! I hope you will enjoy using the Superfly as much as I enjoy creating it :)
 
 Thank you.
