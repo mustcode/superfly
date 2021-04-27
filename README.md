@@ -56,7 +56,7 @@ For the motor, as mentioned above, both NEMA 17 and the round NEMA 14 motors are
 There are only 4 parts that you need to print:
 - the **main housing** holds the drive gear assembly and one of the MR85 bearings
 - the **back housing** holds the other MR85 bearing and keep the drive gear assembly in the main housing
-- the **tensioner** holds the ider gear pressed to the drive gear with the tension from the spring and thumbscrew
+- the **tensioner** holds the idler gear pressed to the drive gear with the tension from the spring and thumbscrew
 - the **motor spacer**, see details below:
 
 ### The Motor Spacer
