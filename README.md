@@ -32,7 +32,7 @@ Fully assembled without motors, the Superfly comes in at around 30-31 gram.
 <img src="images/weight/with_gears.jpg" width=480>
 
 ## Parts
-You will need the follwing parts of your BMG:
+You will need the following parts of your BMG:
 - the **drive shaft** with the large plastic gear attached
 - the **drive gear**, this is the gear that is on the drive shaft
 - the **idler gear**, its shaft, and the two needle bearings inside, these are the parts that were on the BMG's tension arm
@@ -42,12 +42,12 @@ You will need the follwing parts of your BMG:
 
 These parts can be removed without any damage to the BMG, so you can reassembled the BMG later on if you wish. If you don't already have a BMG, there are also stores that sell only these internal parts, which should be cheaper than buying a new BMG only to salvage its innards.
 
-In addition to the BMG parts, you will also need the following hardwares:
+In addition to the BMG parts, you will also need the following hardware:
 - an M3 nut for securing the thumbscrew
 - 4 x M3 screws for mounting (6mm-12mm depending on your motor and mounting needs).
 
 If you're going to be running a reverse-bowden, you'll also need:
-- an embeded bowden collet (the type commonly used on a V6 heatsink)
+- an embedded bowden collet (the type commonly used on a V6 heatsink)
 - 4mm OD PTFE tubing
 
 For the motor, as mentioned above, both NEMA 17 and the round NEMA 14 motors are supported. A scalable motor spacer is provided (see **The Motor Spacer** below) to help compensate for the differences in your motor's shaft length, so there's a good chance that you might already have a compatible motor on hand.
