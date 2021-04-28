@@ -38,7 +38,7 @@ You will need the following parts of your BMG:
 - the **idler gear**, its shaft, and the two needle bearings inside, these are the parts that were on the BMG's tension arm
 - **2 x MR85 bearings** that the drive shaft runs on
 - **Thumbscrew** and **spring** (the washer is optional)
-- The **motor gear**, if you're planning on using a NEMA 17 motor
+- the **motor gear**, if you're planning on using a motor without a gear pre-installed
 
 These parts can be removed without any damage to the BMG, so you can reassembled the BMG later on if you wish. If you don't already have a BMG, there are also stores that sell only these internal parts, which should be cheaper than buying a new BMG only to salvage its innards.
 
