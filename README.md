@@ -60,7 +60,7 @@ There are only 4 parts that you need to print:
 - The **back housing** holds the other MR85 bearing and keep the drive gear assembly in the main housing.
 - The **tensioner** holds the idler gear pressed to the drive gear with the tension from the spring and thumbscrew.
 - The **tensioner_high-tension** is an alternate version of the tensioner that can provide stronger tension. The difference is that the regular tensioner has a hard-stop just before the gear pushes the filament in too deep to prevent over-tightening, while the high-tension version removes the stop and allow the thumbscrew to pull on the tensioner with more force. Please be aware that over-tightening the thumbscrew can damage the filament and/or your printed parts.  
-- the **motor spacer**, see details below:
+- The **motor spacer**, see details below:
 
 ### The Motor Spacer
 The motor spacer is an optional part designed to go between the main housing and the motor to allow you to use motors with shaft longer than 15mm. Any longer than 15mm, the shaft can hit the feeding hole where the PTFE tube collet is attached:
