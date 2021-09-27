@@ -3,7 +3,7 @@
 # Superfly Extruder
 ### A Compact BMG Conversion
 
-** *Update (10th May 2021) - Added a higher strength tensioner, more suitable for high-speed printing, see details in "Printed Parts"*
+** *Update (28th Sep 2021) - A user reported an interference between the tensioner and the plastic gear when used with flexible filaments. This was an error in the design, so it is now corrected. The high-tension version is also removed as the new one should cover all use cases.*
 
 The Superfly is a compact extruder designed to reuse the excellent dual drive gears of the beloved BMG extruder.
 As with the BMG, the Superfly is a dual-drive geared extruder with a 3:1 gear ratio. It is designed with the following characteristics in mind:
@@ -59,7 +59,6 @@ There are only 4 parts that you need to print:
 - The **main housing** holds the drive gear assembly and one of the MR85 bearings.
 - The **back housing** holds the other MR85 bearing and keep the drive gear assembly in the main housing.
 - The **tensioner** holds the idler gear pressed to the drive gear with the tension from the spring and thumbscrew.
-- The **tensioner_high-tension** is an alternate version of the tensioner that can provide stronger tension. The difference is that the regular tensioner has a hard-stop just before the gear pushes the filament in too deep to prevent over-tightening, while the high-tension version removes the stop and allow the thumbscrew to pull on the tensioner with more force. Please be aware that over-tightening the thumbscrew can damage the filament and/or your printed parts.  
 - The **motor spacer**, see details below:
 
 ### The Motor Spacer
